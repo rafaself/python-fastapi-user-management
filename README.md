@@ -42,7 +42,7 @@ Default DB: main<br>
 - https://docs.celeryq.dev/<br>
 
 <h2>Inicializando o projeto:</h2>
-- Clone o repositório: git clone git@github.com:rafawildfire42/fastapi-usermanagement.git<br>
+- Clone o repositório: git clone git@github.com:rafaself/python-fastapi-user-management.git<br>
 - Pode ser necessário autenticação por ssh (https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)<br>
 - Execute o comando: <br>
 > docker build -t paneas .<br>
