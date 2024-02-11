@@ -42,7 +42,6 @@ Default DB: main<br>
 - https://docs.celeryq.dev/<br>
 
 <h2>Inicializando o projeto:</h2>
-<h3>Obs.: O projeto foi desenvolvido até o requisito 5.</h3>
 - Clone o repositório: git clone git@github.com:rafawildfire42/fastapi-usermanagement.git<br>
 - Pode ser necessário autenticação por ssh (https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)<br>
 - Execute o comando: <br>
